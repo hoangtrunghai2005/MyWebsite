@@ -143,10 +143,6 @@ width: 70%;
  display: block;
  margin: 10px auto;
 }
-.squirt a {
-color: black
-text-decoration none;
-}
 .province img{
    width: 80%;
    height: auto;
@@ -160,8 +156,8 @@ color: aliceblue;
 }
 .footer-last p{
 text-align:center;
-margin-top:10px;
-color: white;
+margin-top:5px;
+color: rgb(197, 184, 184);
 }
 header{
    top: 0;
@@ -303,11 +299,6 @@ header{
 }
 .back-to-top span:hover{
    transform: translateY(-4px)
-}
-.body-cam{
-   padding: 10px 0;
-   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-   background-image: url(../RES/bg.jpg)
 }
 .camranh{
    background-color: #fff;
